@@ -18,4 +18,25 @@ The goal was to build confidence in working with:
 - Designing for clarity and spiritual purpose
 
 ## Screenshot
-![The Faith Journey Screenshot](./screenshot.png)
+![The Faith Journey Screenshot](screenshot/Screenshot 2025-05-20 174150.png)
+
+## Tech Stack
+
+- **HTML5**: Structure of the blog page
+- **CSS3**: Styling, layout, and visual presentation
+- *(No JavaScript yet – it's purely front-end)*
+
+## Features
+
+- Clean, modern blog layout using only HTML and CSS
+- Emphasis on Bible-centered teaching and Christian worldview
+- Unique color palette and bold typography for impact
+- Practice use of semantic tags and responsive spacing
+- Coded with clarity and love for faith-inspired content
+
+## How to Run the Project
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/Blog-page.git
