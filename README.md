@@ -18,7 +18,7 @@ The goal was to build confidence in working with:
 - Designing for clarity and spiritual purpose
 
 ## Screenshot
-![Blog page Screenshot](./Screenshot 2025-05-20 174150.png)
+![Blog page Screenshot](./screenshot.png)
 
 ## Tech Stack
 
