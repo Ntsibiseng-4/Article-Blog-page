@@ -1,0 +1,149 @@
+body{
+    background-color: white;
+    font-family: Work Sans;
+    margin: 0;
+    display: flex;
+    color: #010949e8;
+}
+
+.container{
+    display: flex;
+    max-width: 1000px;
+    padding: 20px;
+    width: 100%;
+    min-height: 90vh;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #EDF2FA;
+    margin:10px auto;
+    border-right: 2px solid #89a7f8;
+}
+
+.sidebar{
+   width: 120px;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding-top: 10px 5px;
+   margin: 10px;
+   border-right: 2px solid #4705fd;
+}
+
+
+.vertical-text{
+   font-size: 65px;
+   font-weight: bold;
+   text-align: right;
+   line-height: 6.5;
+   word-spacing: 10px;
+   writing-mode: vertical-rl;
+   align-items: center;
+}
+
+.year{
+   margin-top: 120px;
+   font-size: 40px;
+   font-weight: bold;
+   line-height: 0.9;
+   color: rgb(72, 72, 248);
+}
+
+i{
+   color: rgb(72, 72, 248);
+}
+
+header{
+   border-bottom: 1px solid rgb(88, 88, 253);
+   padding-bottom: 30px;
+   border-top: 1px solid rgb(88, 88, 250) ;
+ }
+
+ .same-line{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   max-width: 1000px;
+   font-size: 20px;
+   padding: 10px;
+ }
+
+ img{
+   width: 40%;
+   border-radius: 110px;
+   margin-bottom: 5px;
+   margin-top: 10px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   transform: scaleX(1.5);
+ }
+
+ h3{
+   font-size: 23px;
+   margin-bottom: 15px;
+ }
+
+ .text{
+   line-height: 1.6;
+   margin-bottom: 15px;
+ }
+
+ .flowing-text{
+   columns: 2;
+   column-gap: 40px;
+   margin-bottom: 0;
+ }
+
+ .title2{
+   margin-bottom: 15px;
+   padding-top: 20px;
+ }
+
+ .semi{
+   font-size: 80px;
+   font-weight: bold;
+   font-family: BIZ UDGothic;
+ }
+
+blockquote{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   max-width: 1000px;
+   font-size: 20px;
+   font-weight: bold;
+   margin: 0;
+   margin-top:-10px;
+   padding: 0;
+   text-align: start;
+}
+
+.spacing{
+   font-size: 30px;
+}
+
+.verse{
+   font-size: 15px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   max-width: 900px;
+   white-space: pre;
+   font-style: initial;
+   margin-bottom: -25px;
+   font-weight: bold;
+}
+
+.third{
+   columns: 3;
+   column-gap: 40px;
+   margin-bottom: 0; 
+   border-bottom: 1px solid rgb(88, 88, 253);
+   padding-bottom: 10px;
+}
+
+footer{
+   text-align: center;
+   font-size: 20px;
+}
